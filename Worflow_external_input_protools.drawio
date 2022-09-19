@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T15:15:32.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" version="20.3.0" etag="1l5UmakZQwvAIMG5Mo8_" type="github"><diagram id="v-CHYrtwh6TPwfo7W-ja">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-19T15:58:13.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="z-DVfD5mzyE6qgq32X1O" version="20.3.0" type="github">
+  <diagram id="v-CHYrtwh6TPwfo7W-ja" name="Page-1">
+    <mxGraphModel dx="1421" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="juVEiRJvUtPXCJoEevyd-2" value="Existant pour inputs CAPIBARA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-3" value="ENTREPRISE.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-4" value="CORRESPONDANT.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="155" y="240" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juVEiRJvUtPXCJoEevyd-5" target="juVEiRJvUtPXCJoEevyd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-5" value="&lt;ul&gt;&lt;li&gt;adresse (entreprise)&lt;/li&gt;&lt;li&gt;nomDossier&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juVEiRJvUtPXCJoEevyd-6" target="juVEiRJvUtPXCJoEevyd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-6" value="&lt;ul&gt;&lt;li&gt;nomDossier -&amp;gt; porte l&#39;accréditation&lt;/li&gt;&lt;li&gt;Nom, prénom, tel, mail, mail_relance&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-7" value="IDENTIFIANT.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juVEiRJvUtPXCJoEevyd-8" target="juVEiRJvUtPXCJoEevyd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-8" value="&lt;ul&gt;&lt;li&gt;SIRET&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;nomDossier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-9" value="QUALITE_VOL.csv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="155" y="340" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juVEiRJvUtPXCJoEevyd-10" target="juVEiRJvUtPXCJoEevyd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-10" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;données métiers sur l&#39;interrogation précédente&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-11" value="Entrant collecte WEB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="juVEiRJvUtPXCJoEevyd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.r-project.org/logo/Rlogo.svg;" vertex="1" parent="1">
+          <mxGeometry x="770" y="60" width="193.55" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-14" value="ETL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="836.78" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-19" value="Programme R spécifique&lt;br&gt;créer &quot;external&quot; data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juVEiRJvUtPXCJoEevyd-21" value="&lt;b&gt;Questions en suspens&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Protools a-t-il un modèle de données ?&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Si oui quel est-il ?&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Fournir en entrant csv directement ou json transformé prêt à l&#39;emploi&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Si json, on est dépend du modèle de data&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="350" width="260" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
