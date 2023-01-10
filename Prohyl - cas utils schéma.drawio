@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T15:12:04.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="mEDMlr4siN0_cUSg3Bug" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T16:12:13.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="vLQeOQHbl1i2wve1XCup" version="20.8.1" type="github">
   <diagram id="8AWTnWIUCFOzMyRznTNa" name="Page-1">
     <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -473,10 +473,10 @@
           <mxGeometry x="532.5" y="575" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ccre-ZRpdGcNiAsm3sCi-107" value="Consentement&amp;nbsp; via AGDATAHUB intégré au logiciel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="519" y="980" width="135" height="30" as="geometry" />
+          <mxGeometry x="505.75" y="953.75" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ccre-ZRpdGcNiAsm3sCi-108" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;MES PARCELLES&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492.25" y="932.5" width="188.5" height="30" as="geometry" />
+          <mxGeometry x="479" y="906.25" width="188.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
